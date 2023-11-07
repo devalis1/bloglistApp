@@ -1,0 +1,22 @@
+- Node.js: JavaScript runtime environment
+- Express: Web application framework for Node.js
+- Mongoose: MongoDB object modeling for Node.js
+- Jest: JavaScript testing library developed by Facebook
+- Lodash (mentioned): JavaScript utility library
+- dotenv: Zero-dependency module that loads environment variables
+- console: Built-in Node.js module for printing to stdout and stderr
+- GitHub: Platform for version control and collaboration
+- npm: Package manager for JavaScript
+- Fly.io and Render: Platforms where the backend server runs in production mode
+- NODE_ENV: Environment variable used to define the application's execution mode
+- .env File: Used for loading environment variables
+- MongoDB Atlas: Database service for storing application data
+- supertest: Package for writing tests for the API
+- async/await: Syntax for handling asynchronous operations
+- cross-env: Package for potential issues with setting the application mode on Windows
+- bcrypt: Library for hashing passwords
+- jsonwebtoken: Library for generating JSON web tokens
+- mongoose-unique-validator: Mongoose plugin for unique value validation
+- Postman: Tool for manual API testing
+- REST Client & VS Code REST-client: Tools for testing API endpoints
+- Redis (mentioned): Key-value database for fast data access
